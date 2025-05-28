@@ -2,5 +2,8 @@ Hello and welcome to my first blog post about my first project. I did this while
 This is like a note and a reminder to myself about what i learn, accomplish, struggles, and problems while i'm doing this project.
 My first project is about a Social Media Classifier.
 
-I want to make a ML model that can distinguish different type of social media like the difference between facebook, X (formerly twitter), reddit, tiktok, instagram, and pinterest
-I basically just copy most of the code from the lesson like 
+I want to make a ML model that can distinguish different type of social media like the difference between 
+facebook, X (formerly twitter), reddit, tiktok, instagram, and pinterest
+I basically just copy most of the code from the lesson like on how to get the data, checking the data, and stuff.
+
+
