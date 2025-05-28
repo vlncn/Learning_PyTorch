@@ -3,7 +3,28 @@ This is like a note and a reminder to myself about what i learn, accomplish, str
 My first project is about a Social Media Classifier.
 
 I want to make a ML model that can distinguish different type of social media like the difference between 
-facebook, X (formerly twitter), reddit, tiktok, instagram, and pinterest
+facebook, X (formerly twitter), reddit, tiktok, instagram, and pinterest.
 I basically just copy most of the code from the lesson like on how to get the data, checking the data, and stuff.
+
+Then I hit my first problem, the depedencies is already different from the one shown in the lecture video. Because the depedencies is newer.
+There's some incompability and rewriting so I need to update the lesson code. I thought that I already have most of the dependencies needed for the course.
+I got hit by the reality that what I learned in college is just a child's playground. So I installed a bunch of them and start fixing the code 
+to better suit my needs. 
+
+Following that, I can finally start to train my model. I still don't what is the pros and cons of each types of algorithm so I just used the one in the lesson.
+My model finished training and I shocked to find that my first take of model has 60% error rate. When i first started this I thought the error will be
+around 30-40%. I also want to know how bad error rate will be when a model is trained on a unfiltered data. So I started cleaning up most of the garbage
+picture that doesn't show what the social media front page. The weird thing that I found is facebook somehow has a realtor(?) image mix-up, pinterest has
+some kind of cosmetic product. For Twitter, its usually a old photo. and then most of them has some garbage data where the image is just their logo.
+
+After cleaning up, I train the model again. the model still has a high error rate, about 30%. I think that error rate is as low as it can go
+because the image data that i used is publicly available image data. So it must have a lot of garbage image. If i want the model to have lower
+error rate, i would've to screenshot 100 times for 6(!) different website and I'm pressed for the time so I didn't want to do it. I just the
+available model just to try deploying it and see how things works.
+
+Now here's come the second problem. I, during college, never used git at all. So this is my first time using it and setting it up give me some
+headache. I'm so confused on how to install stuff because most of the getting started stuff just assume you're on linux and i'm using a Windows.
+the lecturer actually said that windows can run Linux enviroment but i'm so confused about what stuff that i need and what stuff do i miss.
+
 
 
