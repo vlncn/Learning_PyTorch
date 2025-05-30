@@ -26,5 +26,16 @@ Now here's come the second problem. I, during college, never used git at all. So
 headache. I'm so confused on how to install stuff because most of the getting started stuff just assume you're on linux and i'm using a Windows.
 the lecturer actually said that windows can run Linux enviroment but i'm so confused about what stuff that i need and what stuff do i miss.
 
+Afterwards, I mostly cleaned up some error and changing variable name that I forgot to change. I successfully uploaded the model into the
+Huggingspaces. I don't know how to do some link magic thing some here's the space :
+https://huggingface.co/spaces/vlncn/Social_Media_Classification
+What I found insteresting about this model is that everytime I tried to use the screenshot from instagram web and reddit, the model will classified it as twitter.
+When I only took the main part of the web (leaving the side part) the model guess correctly!.
+
+In Summary, well I still need to learn so much about Deep Learning and AI in general. This is a playground and some sort of task after completing a lesson.
+From this tast, I called back some of my knowledge that I learn back in college, Mostly what i get from this lesson is how to set up a new enviroment to 
+deploy an model to the Internet, setting up linux on my laptop, also this is the first time I'm using Git. For the next lesson I'm going to join some free 
+competition in Kaggle and see how to use the knowledge from this lesson. 
+
 
 
